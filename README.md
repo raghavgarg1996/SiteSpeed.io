@@ -22,6 +22,5 @@ After the successfull execution it will be visible as
 <img width="1707" alt="Screenshot 2023-07-31 at 9 24 22 PM" src="https://github.com/raghavgarg1996/SiteSpeed.io/assets/117148030/f82076a7-32b4-4f02-9ed5-6f6fc02580b0">
 
 
-
 # Pre-requistes
 Docker should be up and running
